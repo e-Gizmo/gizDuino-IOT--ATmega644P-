@@ -1,0 +1,14 @@
+Patch Files Installation Upgrade instructions
+
+File: board.txt 
+
+Copy (to replace) same filename in Arduino folder>hardware>gizduino-
+
+Folder: gizduinoIOT
+
+Copy whole folder to Arduino folder>hardware>gizduino->variants
+
+
+Folder: Ethernet
+
+Copy (to replace) whole folder to Arduino folder>libraries
